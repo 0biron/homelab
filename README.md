@@ -1,5 +1,5 @@
 # obiron's homelab
-
+(will create specific service folders later this week)
 This is my public archive of everything I've built so far. (No AI slop here, EVERYTHING WAS WRITTEN BY ME, AI JUST HELPED WITH REFINING AND FORMATTING)
 
 This is my first experience with self-hosting, picking parts for a server build, system management, etc. I've been daily-driving Linux for over a year, which made the whole process surprisingly smooth. The best part about all of this is that you control everything that you own (if you buy digital media) or download from torrents. You own your media - no more depending on predatory services like Netflix or Spotify to decide what you can watch or listen to.
